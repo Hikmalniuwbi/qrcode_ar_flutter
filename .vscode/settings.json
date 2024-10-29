@@ -1,0 +1,7 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cSpell.enableFiletypes": [
+        "gradle"
+    ],
+    "cmake.sourceDirectory": "C:/Users/malzeirr/Documents/qrcode_ar_flutter/linux"
+}
